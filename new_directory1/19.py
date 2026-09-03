@@ -1,0 +1,8 @@
+name = input("enter name")
+roll_no = int(input("enter roll number"))
+cgpa = float(input("enter cgpa"))
+is_hosteller = bool(input("are you a hosteller? (True/False)"))
+print(name)
+print(roll_no)
+print(cgpa)
+print(is_hosteller)

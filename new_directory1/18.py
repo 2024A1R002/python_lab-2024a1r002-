@@ -1,0 +1,1 @@
+#write a python program to take marks of three subjectsout of 100 print True if the student scored at lesat 40 in all three sub and average marks atleast50
