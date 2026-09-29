@@ -1,0 +1,10 @@
+# Write a Python program to input a student's marks in n consecutive tests and store them in a list. Find the longest consecutive sequence in which each mark is strictly greater than the previous mark.
+
+# Display the sequence, its length, and its starting and ending test numbers as a tuple. If multiple sequences have the same maximum length, display the first one.
+
+# Conditions:
+
+# Accept at least one test.
+# Equal marks break the improving sequence.
+# Test numbers begin at 1.
+# Do not sort the list because the original test order matters.
