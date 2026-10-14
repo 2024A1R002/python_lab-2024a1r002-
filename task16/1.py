@@ -8,6 +8,8 @@ class Student:
     def display_details(self):
         print(f"Name: {self.name}")
         print(f"Roll Number: {self.roll}")
+student1 = Student("Aman", 123)        
+student1.display_details()
 
 
 
